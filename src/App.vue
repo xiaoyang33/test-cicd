@@ -22,7 +22,7 @@ const fun = () => {
   console.log(11111);
 
   console.log(query);
-  return query.value + 1
+  return query.value + 2
 }
 
 watchEffect(()=>{
